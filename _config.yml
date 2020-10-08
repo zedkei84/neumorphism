@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Zdenko Kovac, DevOps Engineer
+title: Zed Kei, DevOps Engineer
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Zdenko Kovac
+username: Zed Kei
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: DevOps Engineer
@@ -24,7 +24,7 @@ github_username: zedkei84
 codepen_username: 
 dev_username: 
 linkedin_username: zdenkokovac
-twitter_username: zdeneq84
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
