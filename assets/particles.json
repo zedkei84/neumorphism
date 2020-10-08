@@ -8,10 +8,10 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": "random"
     },
     "shape": {
-      "type": "polygon",
+      "type": ["circle", "triangle", "polygon"],
       "stroke": {
         "width": 0,
         "color": "#000000"
